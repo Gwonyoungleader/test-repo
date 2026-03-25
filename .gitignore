@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+*.pyc
+project/starter/data_classify.npz
